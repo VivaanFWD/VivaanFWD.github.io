@@ -310,7 +310,7 @@ document.addEventListener("DOMContentLoaded", () => {
          * This is a frontend-only form.
          * Replace the mailto address below with your actual email.
          */
-        const recipient = "your-email@example.com";
+        const recipient = "vivaanfwd@duck.com";
 
         const mailto =
             `mailto:${recipient}` +
